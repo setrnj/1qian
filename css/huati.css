@@ -1,0 +1,38 @@
+.zhuyao {
+    width: 1000px;
+    /* background-color: rgb(243, 161, 161); */
+    margin: auto;
+    margin-top: 20px;
+}
+
+.roww {
+    overflow: hidden;
+    zoom: 1;
+    width: 1000px;
+    /* background-color: rgb(151, 107, 107); */
+}
+
+.rowo {
+    float: left;
+}
+
+.thumbnail {
+    display: inline-block;
+}
+
+.row image {
+    width: 242px;
+    height: 200px;
+}
+
+.btn-lg {
+    margin-top: 1.5rem;
+    margin-left: -1.75rem;
+}
+
+.modge {
+    width: 500px;
+    height: 320px;
+    margin: 20px;
+    padding: 10px;
+}

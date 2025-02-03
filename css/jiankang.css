@@ -1,0 +1,26 @@
+.tempes {
+    margin: auto;
+    width: 1000px;
+    padding: 30px;
+    background-color: rgba(red, green, blue, alpha);
+    margin-top: 20px;
+    border-radius: 1.5625rem;
+    /* border-bottom: 5px solid rgb(190, 190, 190); */
+    box-shadow: 18px 10px 40px rgb(6, 6, 6);
+   
+}
+
+.tempes img {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    margin-right: 25px;
+}
+
+
+    
+
+.media-heading {
+    margin-left: 3px;
+    font-size: 23px;
+}

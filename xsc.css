@@ -1,0 +1,93 @@
+在这里插入代码片header{
+	height: 250px;
+	width: 100%;
+	background: no-repeat center/80% url("images/落叶校园.jpg");
+	background-size:cover;
+}
+
+.top{
+	height: 50px;
+	background: rgba(0,0,0,0.5);
+	display: flex;
+}
+.top a{
+	color: #fff; font-size: 16px;
+}
+.top nav, .top ul, .top .login{
+	flex: 1;
+}
+.top nav{
+	height: 50px;
+}
+
+.top nav img{
+	height: 100%;
+}
+.top ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.top .login{
+	display:flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.top .login a{
+	padding-right: 10px;
+}
+
+.top .menu{
+	align-self: center;
+	display: none;
+	flex: 1;
+}
+.main{
+	display: flex;
+}
+.main nav{
+	display: flex;
+	padding: 10px;
+}
+.main nav:nth-child(2) div:nth-child(2){
+	padding-left: 10px;
+}
+
+.main nav img{
+	width: 100%;
+}
+
+section ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+section ul li{
+	width: 23%;
+	margin-bottom: 10px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 6px #333;	
+	
+}
+section ul li img{
+	display: block;
+	width: 100%;
+
+		
+}
+
+@media only screen and (min-width:320px) and (max-width:720px) {
+	.top ul{
+		display: none;
+	}
+	.top .menu{
+		display: block;
+		order: -1;
+	}
+	.main{
+		flex-wrap: wrap;
+	}
+	section ul li{
+		width: 45%;
+	}
+}

@@ -1,0 +1,261 @@
+.w {
+  width: 1200px;
+}
+.b {
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: #fff;
+  border: 2px solid rgba(119, 119, 119, 0.445);
+}
+.TitleBlock {
+  height: 140px;
+}
+.TitleBlock .logo {
+  float: left;
+  width: 300px;
+  height: 140px;
+  background-color: #fff;
+}
+.TitleBlock .logo img {
+  width: 100%;
+  height: 100%;
+}
+.TitleBlock .Linkbar {
+  width: 740px;
+  height: 140px;
+  margin-left: 456px;
+  background-color: #fff;
+}
+.TitleBlock .Linkbar .barword {
+  float: left;
+  font-size: 14px;
+  margin-left: 60px;
+  text-align: center;
+  line-height: 140px;
+}
+.TitleBlock .Linkbar a {
+  color: #808080;
+}
+.TitleBlock .Linkbar a:hover {
+  color: #d66363;
+}
+.black {
+  position: relative;
+  height: 100px;
+  background-color: #3a3a3a;
+}
+.black .black-one {
+  float: left;
+  position: absolute;
+  top: 20px;
+  width: 200px;
+  height: 60%;
+  text-align: center;
+  line-height: 100px;
+  background-color: #fff;
+  background: url(../images/20210518120358_02ac4.png) no-repeat;
+  margin-left: 100px;
+}
+.black .black-two {
+  float: right;
+  width: 400px;
+  height: 100px;
+  margin-right: 200px;
+  font-size: 30px;
+  text-align: center;
+  line-height: 100px;
+}
+.footer-top {
+  height: 375px;
+  background-color: #343434d5;
+}
+.footer-top .qita {
+  float: left;
+  width: 260px;
+  height: 400px;
+  margin-left: 20px;
+}
+.footer-top .qita .qita1 {
+  height: 50px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+  margin-left: 10px;
+}
+.footer-top .qita .qita1n {
+  height: 50px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+  margin-left: -135px;
+}
+.footer-top .qita .qita2 {
+  height: 150px;
+  color: #f6f6f6;
+  text-align: center;
+  font-size: 10px;
+  line-height: 150px;
+}
+.footer-top .qita .qita2 ul{
+margin-top: -100px;
+margin-left: 180px;
+}
+.footer-top .qita .qita2 ul li{
+  width: 80px;
+  height: 20px;
+  font-size: 10px;
+  text-align: left;
+  line-height: 15px;
+  color: #f6f6f6;
+  
+}
+.footer-top .qita .qita2 img {
+  width: 60px;
+  height: 60px;
+}
+.footer-top .didian {
+  float: left;
+  width: 260px;
+  height: 400px;
+  margin-left: 20px;
+
+}
+.footer-top .didiank {
+  float: left;
+  width: 260px;
+  height: 400px;
+  margin-left: 20px;
+  
+}
+.footer-top .didiank ul{
+  margin-top: -20px;
+  
+}
+.footer-top .didian .didian1 {
+  height: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+}
+.footer-top .didiank .didian1 {
+  height: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+  margin-left: -170px;
+}
+.footer-top .didian .didian1n {
+  height: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+  margin-left: -80px;
+}
+.footer-top .didiank .didian1n {
+  height: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: #b3b3b3;
+  line-height: 50px;
+  margin-left: -170px;
+}
+
+.footer-top .didian ul {
+  text-align: center;
+
+}
+.footer-top .didian ul {
+  margin-left: 50px;
+  margin-top: -25px;
+}
+.footer-top .didian ul li {
+  width: 210px;
+  height: 30px;
+  font-size: 10px;
+  text-align: left;
+  line-height: 50px;
+  color: #f6f6f6;
+ 
+}
+.footer-top .didiank ul li {
+  width: 210px;
+  height: 45px;
+  font-size: 10px;
+  text-align: left;
+  line-height: 50px;
+  color: #f6f6f6;
+  border-bottom: 1px solid #7a7a7a;
+}
+.footer-top .didian dl{
+margin-top: 65px;
+margin-left: 50px;
+}
+.footer-top .didian dl dt{
+width: 210px;
+  height: 30px;
+  font-size: 10px;
+  text-align: left;
+  line-height: 40px;
+  color: #f6f6f6;
+}
+.footer-top .didian ol{
+margin-top: 65px;
+margin-left: 50px;
+}
+.footer-top .didian ol li{
+width: 210px;
+  height: 30px;
+  font-size: 10px;
+  text-align: left;
+  line-height: 150px;
+  color: #f6f6f6;
+
+ 
+
+}
+
+.footrr-xia {
+  width: 100%;
+  height: 65px;
+  background-color: #202020e3;
+}
+.footrr-xia .footzuo {
+  float: left;
+  width: 200px;
+  height: 40px;
+  color: #f3f3f3;
+  font-size: 16px;
+  margin-left: 20px;
+}
+.footrr-xia .footyou {
+  float: right;
+  width: 200px;
+  height: 40px;
+  color: #f3f3f3;
+  font-size: 16px;
+  margin-left: 20px;
+}
+.hezi {
+  height: 200px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.myself {
+  color: #ff5656;
+}
+.b1 {
+  margin: 0 auto;
+}
+.footer-top ul li:hover{
+	color: #1FD155;
+}
+.footer-top .didian dl dt:hover{
+	color: #1FD155;
+}
+.footer-top .didian ol li:hover{
+	color: #1FD155;
+}

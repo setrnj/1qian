@@ -1,0 +1,36 @@
+    .jumbotron {
+        width: 60%;
+        height: 34.5rem;
+        margin: auto;
+        margin-top: 3.25rem;
+        background-color: rgba(209, 209, 209, 0.268);
+        border-radius: 1.5625rem;
+        box-shadow: 10px 10px 10px rgba (0, 0, 0, .5);
+        text-shadow: hoff voff blur #000;
+    }
+    
+    .jumbotron h1 {
+        margin-left: 6.25rem;
+    }
+    /* .btn-lg {
+        margin-top: 12.5rem;
+        margin-left: 6.25rem;
+    } */
+    
+    .jumbotron img {
+        float: left;
+        width: 35%;
+        height: 100%;
+        margin-left: 1.25rem;
+        margin-right: 6.25rem;
+        ;
+    }
+    
+    .navba {
+        width: 60%;
+        margin: auto;
+    }
+    
+    .wenzi {
+        font-size: 1.25rem;
+    }

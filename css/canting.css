@@ -1,0 +1,41 @@
+
+.head-top
+.wenzi {
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    background: linear-gradient(to bottom, blue, red);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.jiage {
+    font-size: 2rem;
+}
+
+.col-md-2 {
+    width: 32.666667%;
+}
+bg {
+    background: url("Boot\images\盛开的杏花.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.navbar-brand {
+    padding: 0 0;
+}
+
+
+.col-md-2 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 1.5625rem;
+    box-shadow: 10px 10px 10px rgba (0, 0, 0, .5);
+}
+
+.fenye {
+    width: 38%;
+    height: 200px;
+    margin: auto;
+    margin-top: 1.25rem;
+}
